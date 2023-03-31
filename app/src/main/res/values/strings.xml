@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Url Opener</string>
+    <string name="open_url">Open URL</string>
+    <string name="url_text_hint">google.com</string>
+</resources>
